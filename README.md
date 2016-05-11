@@ -9,6 +9,8 @@
 
 **Presentation**: [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/presentation.pdf)
 
+**Course Description:** [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/course-description%5BARCH11006%5D.pdf)
+
 **Git Repo:** [https://github.com/dchantzis/system-evaluation-and-business-plan](https://github.com/dchantzis/system-evaluation-and-business-plan)
 
 This is a semester project participating in the "Digital Marketplace" class for the MSc in Design and Digital Media (2009-2010) at the University of Edinburgh.
