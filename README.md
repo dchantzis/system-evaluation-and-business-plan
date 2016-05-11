@@ -9,7 +9,7 @@
 
 **Presentation**: [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/presentation.pdf)
 
-**Course Description:** [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/course-description%5BARCH11006%5D.pdf)
+**Project Brief:** [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/course-description%5BARCH11006%5D.pdf)
 
 **Git Repo:** [https://github.com/dchantzis/system-evaluation-and-business-plan](https://github.com/dchantzis/system-evaluation-and-business-plan)
 
