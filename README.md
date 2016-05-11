@@ -3,11 +3,11 @@
 ## System evaluation & Business plan
 **Built date:** 2010
 
-**Business Plan:** [PDF](https://github.com/dchantzis/online-auctions-managing-system/blob/master/online-auction-managing-system%5Bgreek%5D.pdf)
+**System Evaluation**: [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/submission01-system-evaluation.pdf)
 
-**System Evaluation**: [PDF]()
+**Business Plan:** [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/submission02-business-plan.pdf)
 
-**Presentation**: [PDF]()
+**Presentation**: [PDF](https://github.com/dchantzis/system-evaluation-and-business-plan/blob/master/presentation.pdf)
 
 **Git Repo:** [https://github.com/dchantzis/system-evaluation-and-business-plan](https://github.com/dchantzis/system-evaluation-and-business-plan)
 
